@@ -1,7 +1,7 @@
 body{margin: 0;
 
 height: 100vh;
-background-color: aliceblue;
+background-color: rgb(102, 178, 245);
 display: flex;
 justify-content: center;
 align-items: center;}
